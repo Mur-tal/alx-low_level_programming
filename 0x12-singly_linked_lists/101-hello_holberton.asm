@@ -18,5 +18,5 @@ main:
  * nasm -f elf64 101-hello_holberton.asm
  * this will genarate an object file called 101-hello_holberton.o
  * the, compile with
- * nasm gcc -no-pie -std=gnu89 101-hello_holberton.o -o hello
+ * gcc -no-pie -std=gnu89 101-hello_holberton.o -o hello
  */
